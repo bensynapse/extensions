@@ -1698,6 +1698,10 @@
 	path = extensions/fatou-language-server
 	url = https://github.com/jolars/fatou.git
 
+[submodule "extensions/faxforagents-mcp-server"]
+	path = extensions/faxforagents-mcp-server
+	url = https://github.com/faxforagents/zed-extension.git
+
 [submodule "extensions/fedaykin-themes"]
 	path = extensions/fedaykin-themes
 	url = https://github.com/btriapitsyn/zed-fedaykin-themes.git
